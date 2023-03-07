@@ -1,2 +1,2 @@
-# altchool semester-three
+# altschool semester-three
 FrontEnd Engineering Third Semester Examination Project
